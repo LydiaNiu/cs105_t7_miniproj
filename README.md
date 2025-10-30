@@ -12,7 +12,3 @@
 6. Test your hypotheses. Draw the conclusions.
 7. Draw the overall conclusion
 
-
-In this lab, you will analyze data from a _replication_ of Karpicke and Blunt's experiment, conducted by Buttrick _et al_.
-- The data file is : data.csv.
-- The codebook (explaining what the variables mean) is : codebook.csv.
