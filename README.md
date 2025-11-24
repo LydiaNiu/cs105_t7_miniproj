@@ -1,6 +1,6 @@
 # CS105 Fall 2025 Team 7 Mini Project Report
 
-**Author: Lydia Niu, Ryan Kim, Jonathan Chun, Stuart Arief, Colin Pham** [cite: 1254]
+**Author: Lydia Niu, Ryan Kim, Jonathan Chun, Stuart Arief, Colin Pham** 
 
 ---
 
